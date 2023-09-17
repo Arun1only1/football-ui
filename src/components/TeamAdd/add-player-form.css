@@ -1,0 +1,18 @@
+.add-player-form-field {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.name-and-image {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.name-field {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
